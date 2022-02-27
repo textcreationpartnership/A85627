@@ -1,0 +1,232 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great victory God hath vouchsafed by the Lord Generall Cromwels forces against the Scots. Certifyed by several letters from Scotland. Relating the entring of part of the English army into Fife. 2000 of the Scots slaine. With a list of the particulars of the great and glorious successe therein. And the taking of Callender house by storme. Together with a letter from the Lord Generall to the Right Honourable William Lenthal Speaker of Parliament. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85627</idno>
+            <idno type="STC">Wing G1766</idno>
+            <idno type="STC">Thomason E638_2</idno>
+            <idno type="STC">ESTC R30133</idno>
+            <idno type="EEBO-CITATION">99872253</idno>
+            <idno type="PROQUEST">99872253</idno>
+            <idno type="VID">165908</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85627)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 165908)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 98:E638[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great victory God hath vouchsafed by the Lord Generall Cromwels forces against the Scots. Certifyed by several letters from Scotland. Relating the entring of part of the English army into Fife. 2000 of the Scots slaine. With a list of the particulars of the great and glorious successe therein. And the taking of Callender house by storme. Together with a letter from the Lord Generall to the Right Honourable William Lenthal Speaker of Parliament. Imprimatur Hen. Scobel Cleric. Parliamenti.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson dwelling in Smithfield neere Hosier Lane end,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "July".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Fife (Scotland) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:165908:1" rendition="simple:additions"/>
+            <p>
+               <g ref="char:leaf">❧</g> A Great Victory GOD Hath Vouchſafed by the Lord Gene<g ref="char:EOLhyphen"/>rall <hi>CROMWELS Forces againſt</hi> the SCOTS.</p>
+            <p>CERTIFYED By ſeveral Letters from <hi>Scotland.</hi>
+            </p>
+            <p>RELATING The entring of part of the Engliſh Ar<g ref="char:EOLhyphen"/>my into Fife. 2000 of the Scots ſlaine.</p>
+            <p>With a Liſt of the particulars of the great and glorious Succeſſe therein.</p>
+            <p>
+               <hi>And the taking of Callender houſe by storme.</hi>
+            </p>
+            <p>Together with A Letter from the Lord Generall to the Right Honourable WILLIAM LEN<g ref="char:EOLhyphen"/>THAL Speaker of the Parliament.</p>
+            <floatingText type="license" xml:lang="eng">
+               <body>
+                  <p>Imprimatur</p>
+                  <closer>
+                     <signed>Hen. Scobel Cleric. Parliamenti.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>LONDON, Printed for <hi>Robert Ibbitſon</hi> dwelling in Smithfield neere Hoſier Lane end. 1651.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <pb facs="tcp:165908:2"/>
+                  <pb n="1" facs="tcp:165908:2"/>
+                  <opener>
+                     <salute>Deer Brother,</salute>
+                  </opener>
+                  <p>
+                     <seg rend="decorInit">W</seg>E now lye cloſe to the Enemy, who hath ſo intrenched him<g ref="char:EOLhyphen"/>ſelf, that it doth not appear to us yet how to attempt him. Wee have by the bleſsing of the Lord on Thurſday laſt landed about <hi>14</hi> or <hi>1500</hi> men at th<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> North-Ferry in <hi>Fife</hi> and have drawn a line croſſe the Iſthmos of the land, to which a way is made in <hi>24</hi> houres, to tranſport our Army (if it be faire). Our men took about <hi>7</hi> ſhips laden with Salt and Coale upon the place, and neer <hi>20</hi> peece of Cannon, the Major General is gone thither with about <hi>1600</hi> Foot, and <hi>1200</hi> Horſe, I have ſent to him about <hi>1000</hi> Horſe and Foot more, ſo that with what he hath there to defend the works, I hops beſides hee will bee able to take the field with <hi>5000</hi> Horſe and Foot. Maj. Gen. <hi>Hariſon</hi> came up very ſeaſonably with <hi>Ingoldsbys</hi> Regiment, and three Companies more, and about <hi>1200</hi> Horſe and Dragoons, which truly we judge to be a ſeaſonable providence (conſidering we muſt now divide) he being very near Edenburgh, that day we tooke the ſaid place. We ſhall con<g ref="char:EOLhyphen"/>ſider which way to diſpoſe of the reſt of his Forces, and I thinke it will be fit, the Lord having led by his Providence to follow it cloſe. We loſt <hi>Newarke</hi> for want of ſhips in <hi>Dunbarton-Firth,</hi> they taking it by the help of a ſhip with her Canon, after we had held it three dayes, Gen, <hi>Dean<gap reason="illegible" resp="#MURP" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                     </hi> having Order<g ref="char:EOLhyphen"/>ed two men of War to go from Leith about Scotland thither, our men had good Quarter, whiles they were doing this, we took <hi>Callender</hi> houſe in the view of their whole Army by ſtorme, without the loſſe of above five men,</p>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Honoured Sir:</salute>
+                  </opener>
+                  <p>I Received yours of <hi>July</hi> 12. and communicated to my Lord what was not in yours to him; Being returned to our old Quarters neare <hi>Fal<g ref="char:EOLhyphen"/>kirke,</hi> on the fourteenth day of <hi>July</hi> we battered, and then ſtormed <hi>Ca<g ref="char:EOLhyphen"/>lander Houſe,</hi> within two miles of the Enemies whole Camp, which was at <hi>Torwood</hi> five miles from <hi>Sterling,</hi> we twice offered them that kept it, mercy to ſurrender it, but they refuſed; they killed us a Cap<g ref="char:EOLhyphen"/>taine who was only a looker on, and likewiſe our Maſter Gunner; we tooke it the ſame day we began to batter it by ſtorme, and our Men put
+<pb n="2" facs="tcp:165908:3"/>ſixty in the Houſe to the Sword, ſome others dyed of Wounds, and a<g ref="char:EOLhyphen"/>bout ſixteen being wounded had their lives; the Houſe is very ſtrong, with a Moate about it, and a great Wood by it.</p>
+                  <p>It hath devoured many of our men, and God hath now requited them, their great Army never offered to ſend man to their releife; ſuch ſtout men are the <hi>Scotch</hi> Boaſters.</p>
+                  <p>The ſame day at night we ſent a Party in Boates and Ships over the <hi>Fryth,</hi> from <hi>Blackneſſe</hi> to ſurprize <hi>North-ferry</hi> on <hi>Fife</hi> ſide; at the firſt we ſent one thouſand four hundred Foot, and two hundred Horſe, and one Troop of Dragoons, it pleaſed the Lord to goe along with them ſo as within two houres after their landing they tooke the place called, <hi>North-ferry,</hi> which is a Peninſula, in which was a Fort with five great Guns, and in a Bay neare it four ſhips laden with Coales, and Salt; in ſome other Forts neare it we tooke as many Ordnance as made up thoſe five to be ſeventeen, which were planted by the <hi>Fyrth</hi> ſide to gall our ſhips, this <hi>North-ferry</hi> is even againſt the ſtrong Iſland of <hi>Eniſgarvy,</hi> we have ſent over the ſixteen, and ſeventeen dayes of <hi>July,</hi> five hundred Foot more, and five Troops of Dragoons, if by the Lords mercy we can make this place good, <hi>Eniſgarvy</hi> muſt yeeld for want of freſh water, and then we have a brave way to poſſeſſe our whole Army into <hi>Fife</hi> if we ſee occaſion. I hope the Lord hath now begun to worke for us to pur<g ref="char:EOLhyphen"/>poſe, the Lord give us humble and beleeving hearts, and I feare not but the Lord will ſoone bring downe the hearts of our proud and cruell Ene<g ref="char:EOLhyphen"/>mies, and make a gracious returne to the earneſt prayers of his people.</p>
+                  <p>At <hi>Glaſcoe</hi> we found ſome good people fully owning us, and diſow<g ref="char:EOLhyphen"/>ning their Lords, and Miniſters. The Miniſters that are good, are as yet upon a Reſerve, to ſee what Game they can play with us after the Malig<g ref="char:EOLhyphen"/>nants be downe; thus farre ſome owned us, as they were content to diſpute no more about this invaſion; only they deſire a little better to know us, as to our Religion. I ſuppoſe if the Lord pleaſe to give our E<g ref="char:EOLhyphen"/>nemies into our hands, we ſhall have the beſt Party here not only to joyne with us, but to rejoyce with us, who finde they have already had too much King. The <hi>North-ferry</hi> is ours, againſt <hi>Queenes-ferry,</hi> neare <hi>Blackneſſe,</hi> and <hi>Eniſgarvy</hi> is betwixt them. The Lords diſpenſation a<g ref="char:EOLhyphen"/>gainſt this people is exceeding ſevere, where our Army goeth, though, we doe what we can to reſtraine ſtraglers, yet very little is loſt either within doores, or without, that were not the people exceeding cruell to us, our compaſſions of their miſeries would not ſuffer our hearts to be
+<pb n="3" facs="tcp:165908:3"/>any day without pangs of ſadneſſe, who can ſee nothing but a preſent and perfect Famine to follow us; in two or three dayes we make large Corn fields to become a Heath, and the Enemy eats almoſt as faſt as we.</p>
+                  <p>O that our malignant Capon-eaters were but here, to ſee the price of the <hi>Scotch</hi> luſt after a King, and what deſolations are like to be the fruit of his entertainment. We hope the Lord in mercy will ſhorten theſe Wars to preſerve food for a Remnant; we are now in daily expectation of Gods gracious appearance with us, to drive them out of their Holes, and to make them fight, or fly; help us with prayers:</p>
+                  <closer>
+                     <dateline>
+                        <date>July 19.</date> from the Camp neare <hi>Falkirk.</hi>
+                     </dateline>
+                     <signed>Your affectionate Couſen, <hi>W. G.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>
+               <hi>We lye within a mile and a halfe of the Enemy, and view one an<g ref="char:EOLhyphen"/>other every day, but can neither come at them, nor come betwixt</hi> Sterling, <hi>and them, but I hope now we have got a back doore in</hi> Fife.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>Truly Honourable:</salute>
+                  </opener>
+                  <p>YOu muſt not expect from me an account of paſſages in the Army, having been wholy with that party that entered <hi>Fife,</hi> neither was I able by the laſt, having ſcarſe been maſter of a moments time to eat or ſleepe: Truly the Lord is now breaking out of the Clouds in his brightneſſe, and experimenting us, as of his love and continued pre<g ref="char:EOLhyphen"/>ſence with us; ſo that his time and way of the Diſcoverie thereof is the beſt; how were we tugging theſe ten Moneths, and ſtill reaped nothing but diſappointments? There are theſe three things very ob<g ref="char:EOLhyphen"/>ſervable; firſt, that the Lord ſhould direct his poore ſervants to pitch upon a place of ſuch fitneſſe for its end in every kind. Secondly, that Major Gen: <hi>Hariſon</hi> with his forces ſhould come up and that by the way of <hi>Edenburgh,</hi> whereas indeed we expected that what forces had come from him ſhould have come by the way of Carliſle, &amp; Ham<g ref="char:EOLhyphen"/>bleton, which had been nothing ſo well. Thirdly, that the Lord ſhould favour us with ſuch a ſeaſon of wind and weather for foure dayes to<g ref="char:EOLhyphen"/>gether the wind ſerving a like to paſſe and repaſſe; our men had notice
+<pb n="4" facs="tcp:165908:4"/>upon <hi>Saturday,</hi> of Sir <hi>Iohn Brownes</hi> being at <hi>Dumfermlin</hi> within three miles of them that night with a conſiderable party of Horſe and Foot, whereupon hee was reſolved in caſe the forces of ours that were ex<g ref="char:EOLhyphen"/>pected ſhould come over in any time, to march out to meet them, which accordingly by the Providence of God fell out, for Col. <hi>Okeys</hi> Regiment of Horſe, and part of Col. <hi>Ingoldsbies</hi> of Foot were over early yeſterday morning, and others following as faſt as Boates could carry them; Whereupon the Major Gen: with about ſix Regiments in all; of Horſe, Foot, and Dragoones marched out, and placed his Foot obſcure on the ſide of a hill, and advanced further towards the enemy with his horſe, who alſo were on their march towards him, with full reſolution to engage; there was ſome ſmall charges with parties, but the Major Gen: retreated to his foot, uſing that onely as a meanes to draw them forward; and being come to his foot, each in Battalia charged other, the hotteſt ſervice was between the left wing of ours, and the right wing of theirs, where Col. <hi>Okey</hi> commanded the Major Generalls Regiment of horſe, and part of his owne, where the ſervice was very hot at the ſwords point, and ſpecially with Col: <hi>Okeyes</hi> men, who had the left to the left, and were very hardly put to it, both in front and flanck, but were ſeaſonably relieved by Captain <hi>Bramſtons</hi> Dragoones, who gave very good fire on the enemy, and to good pur<g ref="char:EOLhyphen"/>poſe, the buſineſſe began about three in the afternoone, and continued in its heat a quarter of an hour.</p>
+                  <p>Our Word was <hi>Providence,</hi> theirs <hi>Scotland,</hi> it ſeemes they were ſen<g ref="char:EOLhyphen"/>ſible that <hi>Scotland</hi> lay at this bout much at the ſtake; Their Army is retreated over <hi>Sterling,</hi> &amp; ours on the advance, the Lord make you and us humble and thankfull</p>
+                  <p>The horſe being beaten, their foot preſently threw away their arms; I cannot give you the particulars of the buſineſſe as yet, being the laſt night commanded away by the Major Gen: to my Lord, our men had the purſuit of them for ſix miles, their number was about 5000 like to ours; they were their picked men both horſe and foot, there were about 2000 of them ſlaine, and ſeven or eight hundred taken,</p>
+                  <p>Col: <hi>Scot,</hi> or Petty-Scot is ſlaine, and Col: <hi>Buchanan</hi> (a man of great eminencie and eſtate amongſt them) is taken priſoner, as alſo is Sir <hi>John Brown</hi> their Commander in chiefe: Of their foot not 200. eſcaped, and thoſe that are priſoners the moſt of them are ſo deſperat<g ref="char:EOLhyphen"/>ly wounded they will hardly live; all their foot Colours are taken,
+<pb n="5" facs="tcp:165908:4"/>and many of their horſe, the moſt of their foot are High-landers, the reſt of their Army are in a mighty confuſion, and retreated over Ster<g ref="char:EOLhyphen"/>ling; we loſt onely one Cornet, and I thinke not more, my paper will hold no more, the Lord be praiſed for this:</p>
+                  <closer>
+                     <signed>I am, Sir, <hi>Your Honours G: DOWNING.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>AFter our waiting upon the Lord, and not knowing what courſe to take (for indeed we know nothing but what God pleaſeth to teach us) of his great mercy, we were directed to ſend a party to get us a landing by our boats whilſt we marched towards <hi>Glaſcow.</hi> On Tueſday morning laſt Col. <hi>Overton</hi> with about <hi>1400</hi> Foot, and ſome Horſe and Dragoones landed at the North-Ferry in <hi>Fife:</hi> We with the Army ly<g ref="char:EOLhyphen"/>ing near to the enemy (a ſmall River parted us and them) and we hav<g ref="char:EOLhyphen"/>ing conſultations to attempt the Enemy within his Fortifications, but the Lord was not pleaſed to give way to that Councell, purpoſing a bet<g ref="char:EOLhyphen"/>ter way for us. The Major Generall marched on Thurſday night with <hi>2</hi> Regiments of Horſe, and <hi>2</hi> Regiments of Foot, for better ſecu<g ref="char:EOLhyphen"/>ring the place, and to attempt upon the enemy as opportunity ſhould ſerve: He getting over, and finding a conſiderable body of the Enemy there, (who would probably have beaten our men from the place, if he had not come) drew out and fought them) he being <hi>2</hi> Regiments of Horſe, and about <hi>400</hi> of Horſe and Dragoons more, and <hi>3</hi> Regiments of Foot, and about <hi>4</hi> or <hi>5</hi> Regiments of Horſe: They came to a cloſe charge, and in the end totally routed the enemy, have taken about <hi>40</hi> or <hi>50</hi> Coullers, killed near <hi>2000.</hi> ſome ſay more, have taken Sir <hi>John Brown</hi> (their Maj. Gen. who cammanded in cheefe) and other Colonels and conſiderable Officers, killed and taken, and about <hi>5</hi> or <hi>600</hi> priſo<g ref="char:EOLhyphen"/>ners. The Enemy removed from their ground with their whole Army, but whither we certainly know not. This is an unſpeakable mercy, I truſt the Lord will follow it, untill he hath perfected peace and truth: We can truly ſay, we were gone as far as we could in our Councells and Actions; and we did ſay one to another, we know not what to do. Where<g ref="char:EOLhyphen"/>fore it is ſealed upon our hearts, that this, as all the reſt is from the
+<pb n="6" facs="tcp:165908:5"/>Lords goodneſſe and not from man. I hope it becommeth me to pray that we may walke humbly and ſelfe-denyingly before the Lord, and beleevingly alſo. That you whom we ſerve, as the Authority over us, may do the worke committed to you with uprightneſſe and faithfulneſſe, and throughly as the Lords: That you may not ſuffer any thing to re<g ref="char:EOLhyphen"/>maine that offends the eyes of his jealouſie that Commonwealths may more and more be ſought and juſtice done impartially. For the eys of the Lord run to and fro, and as he finds out his Enemies here to be aven<g ref="char:EOLhyphen"/>ged on them, ſo will be not spare them for whom he doth good, if by his loving kindneſſe they become not good. I ſhall humbly take the bold<g ref="char:EOLhyphen"/>nes to repreſent this Engagement of <hi>Davids</hi> in the <hi>119 Pſal.</hi> the <hi>134v. Deliver me from the oppreſſion of man, ſo will I keep thy precepts.</hi> I take leave and reſt,</p>
+                  <closer>
+                     <salute>SIR,</salute> 
+                     <signed>Your moſt humble Servant. <hi>O. CROMWEL</hi>
+                     </signed>
+                     <dateline>
+                        <hi>Lithgow</hi> 
+                        <date>
+                           <hi>21 July 1651.</hi>
+                        </date>
+                     </dateline>
+                  </closer>
+                  <postscript>
+                     <p>
+                        <hi>The carriage of the Maj. Gen. as in all other things, ſo in this is worthy of your taking notice of. as alſo</hi> Col. <hi>Okey,</hi> Col. <hi>Overton,</hi> Col. <hi>Daniel,</hi> Col. <hi>Weſt,</hi> Col. <hi>Lidcot,</hi> Col. <hi>Syler;</hi> and the reſt of the Officers.</p>
+                  </postscript>
+                  <trailer>For the Right Honourable <hi>William Lenthall</hi> Speaker of the Par<g ref="char:EOLhyphen"/>liament of the Commonwealth of <hi>England.</hi>
+                  </trailer>
+               </body>
+            </floatingText>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Imprimatur,</p>
+            <closer>
+               <signed>Hen: Scobell, <hi>Cleric: Parliamenti.</hi>
+               </signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
